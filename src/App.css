@@ -1,0 +1,31 @@
+.App {
+  background-color: lightgray;
+}
+.main-image{
+  height: 20px;
+}
+
+.main-app{
+  display: flex;
+  width: 100%;
+  
+
+}
+.search-main{
+width: 10%;
+float: left;
+margin-top: 5px;
+margin-left: 10%;
+}
+.hamburger{
+  width: 10%;
+  float: right;
+  margin-top: 5px;
+  
+}
+.info{
+width: 80%;
+float: right;
+margin-top: 5px;
+margin-left: 27%;
+}
